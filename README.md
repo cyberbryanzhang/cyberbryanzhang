@@ -11,13 +11,24 @@ Tucson, AZ · University of Arizona
 </div>
 
 
+
+**System Status:**  
+![status](https://img.shields.io/badge/Operational-🟢-2ea44f?labelColor=2d333b)
+![learning](https://img.shields.io/badge/Active%20Learning-🕒-ff9f1a?labelColor=2d333b)
+![secure](https://img.shields.io/badge/Secure-🔒-4c1?labelColor=2d333b)
+
+**Live Telemetry:**  
+![Last commit](https://img.shields.io/github/last-commit/cyberbryanzhang/cyberbryanzhang?label=last%20update&logo=github)
+![Commit activity](https://img.shields.io/github/commit-activity/m/cyberbryanzhang/cyberbryanzhang?label=commits%2Fmonth)
+![Followers](https://img.shields.io/github/followers/cyberbryanzhang?style=social)
+
+
 ### 🧠 Focus Areas
 - Threat detection & **digital forensics**  
 - **AI-driven** cybersecurity analytics  
 - GPU-accelerated data visualization pipelines  
 - Secure system architecture & automation  
 
----
 
 ### 📂 Key Projects
 **🔸 [Cambridge-IGCSE-Computer-Science](https://github.com/cyberbryanzhang/Cambridge-IGCSE-Computer-Science)**  
@@ -30,17 +41,28 @@ A local AI companion focused on reflective learning, emotional grounding, and pr
 ---
 
 ### ⚡ Stack
-`Python` · `CUDA` · `Bash` · `Pandas` · `Scikit-learn` · `Wireshark` · `Linux` · `Git` · `Jupyter`  
+`Python` · `CUDA` · `Bash` · `Pandas` · `Scikit-learn` · `Wireshark` · `Linux` · `Git` · `Jupyter`
+
+---
+
+### 📡 Telemetry
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cyberbryanzhang&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberbryanzhang&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+<!-- Optional: After setting up GitHub Actions (metrics.yml) this image will render automatically -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cyberbryanzhang/cyberbryanzhang/main/metrics.svg" alt="Profile metrics (auto-updated)" />
+</p>
 
 ---
 
 <div align="center">
 
-### 📡 Telemetry
+📧 <a href="mailto:cyber.bryanzhang@gmail.com">cyber.bryanzhang@gmail.com</a> ·
+<a href="https://www.linkedin.com/in/bryanzdy">LinkedIn</a> ·
+<a href="https://github.com/cyberbryanzhang">GitHub</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=cyberbryanzhang&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberbryanzhang&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-
-📧 [cyber.bryanzhang@gmail.com](mailto:cyber.bryanzhang@gmail.com) ·  [LinkedIn](https://www.linkedin.com/in/bryanzdy) · [GitHub](https://github.com/cyberbryanzhang)
-
-</div>
+<br><br>
