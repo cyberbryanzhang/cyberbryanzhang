@@ -1,4 +1,4 @@
-name: Profile Metrics
+name: Profile Metrics (Compact)
 
 on:
   schedule:
@@ -12,37 +12,34 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate metrics.svg
+      - name: Generate compact metrics.svg
         uses: lowlighter/metrics@latest
         with:
-          # === Basic Config ===
           user: cyberbryanzhang
           filename: metrics.svg
+
+          output_action: commit
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: main
-          committer_message: "chore(metrics): update profile metrics [skip ci]"
-          config_timezone: America/Phoenix
+          committer_message: "chore(metrics): compact profile metrics [skip ci]"
+
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header
+          config_timezone: America/Phoenix
           config_twemoji: yes
 
-          # === Plugins ===
           plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_categories: programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
+          plugin_languages_indepth: no
+          plugin_languages_limit: 6
+          plugin_languages_sections: most-used
           plugin_languages_ignored: html, css, scss
-
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          plugin_traffic: yes
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
+          plugin_habits: no
+          plugin_achievements: no
+          plugin_traffic: no
+          plugin_followup: no
 
-          # === 授权令牌 ===
           token: ${{ secrets.METRICS_TOKEN }}
