@@ -52,10 +52,14 @@ A local AI companion focused on reflective learning, emotional grounding, and pr
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberbryanzhang&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
-<!-- Optional: After setting up GitHub Actions (metrics.yml) this image will render automatically -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cyberbryanzhang/cyberbryanzhang/main/metrics.svg" alt="Profile metrics (auto-updated)" />
-</p>
+<details>
+  <summary><b>More telemetry (auto-updated)</b></summary>
+  <br>
+  <p align="center">
+    <img src="metrics.svg" alt="Profile metrics (compact)" />
+  </p>
+</details>
+
 
 ---
 
