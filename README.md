@@ -1,72 +1,63 @@
-<!-- Tech Console · Bryan Zhang (DuoYu) -->
+<!-- Bryan Zhang · GitHub Profile -->
 
 <div align="center">
 
-## Bryan Zhang (DuoYu)
-**Cyber Operations · AI Systems · Digital Forensics**  
-Tucson, AZ · University of Arizona  
+# Bryan Zhang (DuoYu)
+**Cyber Operations Sophomore Student**  
+📍 Tucson, Arizona · University of Arizona  
 
-“Code is not just logic — it’s a record of who you were when you wrote it.”
+“Every system hides a story. My job is to make it speak.”
 
 </div>
 
+---
 
+### 🧭 About Me  
+I’m an undergraduate researcher at the **University of Arizona**, studying **Cyber Operations** with a focus on **AI-driven security systems**, **network forensics**, and **cyber Ethics**.  
+My interests lie at the intersection of **machine intelligence** and **cyber defense** — building systems that can not only detect threats but also explain themselves.  
 
-**System Status:**  
-![status](https://img.shields.io/badge/Operational-🟢-2ea44f?labelColor=2d333b)
-![learning](https://img.shields.io/badge/Active%20Learning-🕒-ff9f1a?labelColor=2d333b)
-![secure](https://img.shields.io/badge/Secure-🔒-4c1?labelColor=2d333b)
-
-**Live Telemetry:**  
-![Last commit](https://img.shields.io/github/last-commit/cyberbryanzhang/cyberbryanzhang?label=last%20update&logo=github)
-![Commit activity](https://img.shields.io/github/commit-activity/m/cyberbryanzhang/cyberbryanzhang?label=commits%2Fmonth)
-![Followers](https://img.shields.io/github/followers/cyberbryanzhang?style=social)
-
-
-### 🧠 Focus Areas
-- Threat detection & **digital forensics**  
-- **AI-driven** cybersecurity analytics  
-- GPU-accelerated data visualization pipelines  
-- Secure system architecture & automation  
-
-
-### 📂 Key Projects
-**🔸 [Cambridge-IGCSE-Computer-Science](https://github.com/cyberbryanzhang/Cambridge-IGCSE-Computer-Science)**  
-Archive of early Python programs & algorithm exercises (EN/中文).  
-Includes acknowledgment to **Mr. Mark Sprietsma** for mentorship and guidance.  
-
-**🔸 [Raymond-on-your-Desktop](https://github.com/cyberbryanzhang/Raymond-on-your-Desktop)**  
-A local AI companion focused on reflective learning, emotional grounding, and productivity.
+I see code as both an analytical instrument and a reflection of intent:  
+something that should **solve** and **teach**.
 
 ---
 
-### ⚡ Stack
-`Python` · `CUDA` · `Bash` · `Pandas` · `Scikit-learn` · `Wireshark` · `Linux` · `Git` · `Jupyter`
+### 🧠 Current Focus  
+- AI-assisted **threat analysis** and **incident response**  
+- Building explainable diagnostic models for **network stability**  
+- Researching **forensic automation** and secure data integrity  
+- Exploring how **language models** can aid human decision-making in cyber defense  
 
 ---
 
-### 📡 Telemetry
+### 🔬 Active Projects  
+#### 🟣 **RemoteGuard**  
+AI-driven network diagnostic system for remote workers.  
+Monitors performance, identifies instability, and provides non-technical guidance to restore communication reliability.  
 
+#### 🟢 **Raymond on Your Desktop**  
+A local AI assistant built for emotional grounding and reflective learning.  
+Designed to bring psychological calm and structured thought into daily work environments.  
+
+
+---
+
+### ⚙️ Tech Stack  
+`Python` · `C` · `Bash` · `CuDA` · `Pandas` · `Wireshark` · `Git` · `FastAPI` · `Jupyter`  
+
+---
+
+### 📊 Telemetry  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cyberbryanzhang&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberbryanzhang&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
-<details>
-  <summary><b>More telemetry (auto-updated)</b></summary>
-  <br>
-  <p align="center">
-    <img src="metrics.svg" alt="Profile metrics (compact)" />
-  </p>
-</details>
-
-
 ---
 
+### 🛰️ Contact  
 <div align="center">
 
-📧 <a href="mailto:cyber.bryanzhang@gmail.com">cyber.bryanzhang@gmail.com</a> ·
-<a href="https://www.linkedin.com/in/bryanzdy">LinkedIn</a> ·
-<a href="https://github.com/cyberbryanzhang">GitHub</a>
+📧 [cyber.bryanzhang@gmail.com](mailto:cyber.bryanzhang@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/bryanzdy) · [GitHub](https://github.com/cyberbryanzhang)
 
-<br><br>
+</div>
