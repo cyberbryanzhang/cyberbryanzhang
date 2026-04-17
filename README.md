@@ -3,50 +3,69 @@
 <div align="center">
 
 # Bryan Zhang (DuoYu)
-**Cyber Operations Sophomore Student**  
+
+**Cyber Operations Student**  
 📍 Tucson, Arizona · University of Arizona  
 
-“Every system hides a story. My job is to make it speak.”
+🛡️ Interested in network security, traffic analysis, and threat detection
 
 </div>
 
 ---
 
-### 🧭 About Me  
-I’m an undergraduate researcher at the **University of Arizona**, studying **Cyber Operations** with a focus on **AI-driven security systems**, **network forensics**, and **cyber Ethics**.  
-My interests lie at the intersection of **machine intelligence** and **cyber defense** — building systems that can not only detect threats but also explain themselves.  
+## 🧭 About Me
 
-I see code as both an analytical instrument and a reflection of intent:  
-something that should **solve** and **teach**.
+I’m a Cyber Operations student at the **University of Arizona** with a growing focus on **network analysis**, **log analysis**, and **security monitoring**.
 
----
+Right now, I’m building hands-on experience through coursework and personal projects using tools like **Wireshark**, **Splunk**, and **Python**. I’m especially interested in understanding how packets, protocols, and logs can reveal real security issues.
 
-### 🧠 Current Focus  
-- AI-assisted **threat analysis** and **incident response**  
-- Building explainable diagnostic models for **network stability**  
-- Researching **forensic automation** and secure data integrity  
-- Exploring how **language models** can aid human decision-making in cyber defense  
+My current goal is simple: build solid technical foundations and turn them into practical cybersecurity skills.
 
 ---
 
-### 🔬 Active Projects  
-#### 🟣 **RemoteGuard**  
-AI-driven network diagnostic system for remote workers.  
-Monitors performance, identifies instability, and provides non-technical guidance to restore communication reliability.  
+## 🧠 Current Focus
 
-#### 🟢 **Raymond on Your Desktop**  
-A local AI assistant built for emotional grounding and reflective learning.  
-Designed to bring psychological calm and structured thought into daily work environments.  
-
+- 🌐 Network traffic analysis with **Wireshark**
+- 📊 Log analysis and detection workflows with **Splunk**
+- 🐍 Python scripting for basic security automation
+- 🔎 Building SOC-style investigation habits through hands-on projects
 
 ---
 
-### ⚙️ Tech Stack  
-`Python` · `C` · `Bash` · `CuDA` · `Pandas` · `Wireshark` · `Git` · `FastAPI` · `Jupyter`  
+## 🔬 Active Projects
+
+### 🟣 Splunk-Based SOC Detection and Log Analysis Lab
+Built a small SOC-style lab in **Splunk** to ingest and analyze authentication and system logs.  
+Focused on failed logins, suspicious activity patterns, dashboard creation, and basic threat-hunting workflows.
+
+### 🔵 Protocol and Traffic Analysis with Wireshark
+Course-based traffic analysis project tied to **CYBV 326 – Introductory Methods of Network Analysis**.  
+Used **Wireshark** to examine TCP, DNS, HTTP, ARP, and ICMP traffic and document normal vs. abnormal behavior.
+
+### 🟢 Python Log Analysis Tool *(In Progress)*
+Building a simple Python-based tool to parse system and network logs, identify suspicious login activity, and support basic monitoring tasks.
 
 ---
 
-### 📊 Telemetry  
+## ⚙️ Tech Stack
+
+**Languages:** `Python` · `C` · `Bash`  
+**Tools:** `Wireshark` · `Splunk` · `Git`  
+**Systems:** `Linux` · `Windows`  
+**Focus Areas:** `Network Analysis` · `Log Analysis` · `Threat Detection`
+
+---
+
+## 🚀 Goals
+
+- Gain hands-on experience through cybersecurity projects and internships
+- Keep building stronger foundations in network security and detection
+- Grow toward entry-level roles in **SOC**, **threat analysis**, and **network security**
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cyberbryanzhang&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberbryanzhang&layout=compact&theme=tokyonight&hide_border=true" height="150" />
@@ -54,7 +73,8 @@ Designed to bring psychological calm and structured thought into daily work envi
 
 ---
 
-### 🛰️ Contact  
+## 🛰️ Contact
+
 <div align="center">
 
 📧 [cyber.bryanzhang@gmail.com](mailto:cyber.bryanzhang@gmail.com)  
