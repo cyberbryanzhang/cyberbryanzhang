@@ -10,10 +10,7 @@
 
 <a href="https://www.linkedin.com/in/bryanzdy">
   <img src="https://img.shields.io/badge/LinkedIn-bryanzdy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:cyber.bryanzhang@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+
 
 </div>
 
@@ -170,28 +167,16 @@ Covered network traffic analysis, packet inspection, basic Python automation, ab
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cyberbryanzhang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Bryan's GitHub stats" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberbryanzhang&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=cyberbryanzhang&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/cyberbryanzhang/cyberbryanzhang/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/cyberbryanzhang">
     <img src="https://img.shields.io/badge/cyberbryanzhang-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/bryanzdy">
